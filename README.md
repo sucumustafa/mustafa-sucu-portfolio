@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kişisel Web Sitesi
 
 ## Proje Tanımı  
@@ -60,3 +61,6 @@ Aşağıdaki hesap sadece test amaçlıdır:
 
 E-posta: a@a.com
 Şifre: 123456
+=======
+# mustafa-sucu-portfolio
+>>>>>>> e91919f9a6065e802d5e9c2f2baa677921b229ee
