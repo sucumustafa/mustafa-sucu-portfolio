@@ -1,0 +1,10 @@
+/*
+  The following Tailwind directives require processing by Tailwind CSS.
+  Make sure your build setup includes Tailwind (e.g., via PostCSS).
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* İstersen global custom stiller buraya */
+
